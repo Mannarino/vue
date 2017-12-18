@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="assets/logo.png">
+    <img src="https://mannarino.github.io/vue/dist/logo.png">
     
     <h2>Proyect Vue</h2>
     <div class="caja3">
